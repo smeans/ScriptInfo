@@ -1,0 +1,30 @@
+body {
+    font-family: monospace;    
+}
+
+h1, h2, h3, h4 {
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+#script_text {
+    width: 97%;
+    font-family: monospace;    
+}
+
+#stats span {
+    font-weight: bold;
+}
+
+.widget {
+    background-color: #f0f0f0;
+}
+
+#script_out {
+    background-color: #fff;
+}
+
+#script_scroller {
+    height: 400px;
+    overflow: auto;
+}
